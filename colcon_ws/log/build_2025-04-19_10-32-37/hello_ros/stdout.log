@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/hello_ros/hello_ros.egg-info
+writing ../../build/hello_ros/hello_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/hello_ros/hello_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/hello_ros/hello_ros.egg-info/entry_points.txt
+writing requirements to ../../build/hello_ros/hello_ros.egg-info/requires.txt
+writing top-level names to ../../build/hello_ros/hello_ros.egg-info/top_level.txt
+writing manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+reading manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/park/testpublic/colcon_ws/build/hello_ros/build
+creating /home/park/testpublic/colcon_ws/build/hello_ros/build/lib
+creating /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros
+copying hello_ros/__init__.py -> /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros
+copying hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros
+running install
+running install_lib
+creating /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros
+copying /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros/__init__.py -> /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros
+copying /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros
+byte-compiling /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/hello_ros.py to hello_ros.cpython-310.pyc
+running install_data
+creating /home/park/testpublic/colcon_ws/install/hello_ros/share/ament_index
+creating /home/park/testpublic/colcon_ws/install/hello_ros/share/ament_index/resource_index
+creating /home/park/testpublic/colcon_ws/install/hello_ros/share/ament_index/resource_index/packages
+copying resource/hello_ros -> /home/park/testpublic/colcon_ws/install/hello_ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/park/testpublic/colcon_ws/install/hello_ros/share/hello_ros
+running install_egg_info
+Copying ../../build/hello_ros/hello_ros.egg-info to /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing hello_ros script to /home/park/testpublic/colcon_ws/install/hello_ros/lib/hello_ros
+writing list of installed files to '/home/park/testpublic/colcon_ws/build/hello_ros/install.log'

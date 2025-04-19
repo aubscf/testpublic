@@ -1,0 +1,5 @@
+  File "/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/hello_ros.py", line 11
+    print("hello, ROS2 humble!!  {self.count}"")
+                                              ^
+SyntaxError: unterminated string literal (detected at line 11)
+

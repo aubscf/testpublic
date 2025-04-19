@@ -1,0 +1,24 @@
+[0.424s] Invoking command in '/home/park/testpublic/colcon_ws/src/hello_ros': PYTHONPATH=/home/park/testpublic/colcon_ws/build/hello_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_ros build --build-base /home/park/testpublic/colcon_ws/build/hello_ros/build install --record /home/park/testpublic/colcon_ws/build/hello_ros/install.log --single-version-externally-managed install_data
+[0.583s] running egg_info
+[0.584s] writing ../../build/hello_ros/hello_ros.egg-info/PKG-INFO
+[0.584s] writing dependency_links to ../../build/hello_ros/hello_ros.egg-info/dependency_links.txt
+[0.584s] writing entry points to ../../build/hello_ros/hello_ros.egg-info/entry_points.txt
+[0.584s] writing requirements to ../../build/hello_ros/hello_ros.egg-info/requires.txt
+[0.585s] writing top-level names to ../../build/hello_ros/hello_ros.egg-info/top_level.txt
+[0.586s] reading manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+[0.587s] writing manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+[0.587s] running build
+[0.587s] running build_py
+[0.587s] copying hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros
+[0.588s] running install
+[0.588s] running install_lib
+[0.588s] copying /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros
+[0.589s] byte-compiling /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/hello_ros.py to hello_ros.cpython-310.pyc
+[0.590s] running install_data
+[0.590s] running install_egg_info
+[0.591s] removing '/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.591s] Copying ../../build/hello_ros/hello_ros.egg-info to /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros-0.0.0-py3.10.egg-info
+[0.592s] running install_scripts
+[0.606s] Installing hello_ros script to /home/park/testpublic/colcon_ws/install/hello_ros/lib/hello_ros
+[0.606s] writing list of installed files to '/home/park/testpublic/colcon_ws/build/hello_ros/install.log'
+[0.623s] Invoked command in '/home/park/testpublic/colcon_ws/src/hello_ros' returned '0': PYTHONPATH=/home/park/testpublic/colcon_ws/build/hello_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_ros build --build-base /home/park/testpublic/colcon_ws/build/hello_ros/build install --record /home/park/testpublic/colcon_ws/build/hello_ros/install.log --single-version-externally-managed install_data

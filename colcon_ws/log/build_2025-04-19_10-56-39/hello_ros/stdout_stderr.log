@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/hello_ros/hello_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/hello_ros/hello_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/hello_ros/hello_ros.egg-info/entry_points.txt
+writing requirements to ../../build/hello_ros/hello_ros.egg-info/requires.txt
+writing top-level names to ../../build/hello_ros/hello_ros.egg-info/top_level.txt
+reading manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/hello_ros/hello_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+copying hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros
+running install
+running install_lib
+copying /home/park/testpublic/colcon_ws/build/hello_ros/build/lib/hello_ros/hello_ros.py -> /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros
+byte-compiling /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/hello_ros.py to hello_ros.cpython-310.pyc
+running install_data
+running install_egg_info
+  File "/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros/hello_ros.py", line 11
+    print("hello, ROS2 humble!! " {self.count}"")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+removing '/home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/hello_ros/hello_ros.egg-info to /home/park/testpublic/colcon_ws/install/hello_ros/lib/python3.10/site-packages/hello_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing hello_ros script to /home/park/testpublic/colcon_ws/install/hello_ros/lib/hello_ros
+writing list of installed files to '/home/park/testpublic/colcon_ws/build/hello_ros/install.log'
